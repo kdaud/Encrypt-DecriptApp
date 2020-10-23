@@ -10,6 +10,7 @@ import javax.crypto.Cipher;
 
 public class CipherDecript {
 	
+	//java codes
 	static {
 		System.out.println("Enter the message:");
 	}
